@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\SpeechSystem.dir/objects.a
+C:\PROGRA~2\mingw64\bin\ar.exe qc CMakeFiles\SpeechSystem.dir/objects.a @CMakeFiles\SpeechSystem.dir\objects1.rsp
+C:\PROGRA~2\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\SpeechSystem.dir/objects.a -Wl,--no-whole-archive -o SpeechSystem.exe -Wl,--out-implib,libSpeechSystem.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SpeechSystem.dir\linkLibs.rsp

@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/MeatyBio/Desktop/code/C++/Project/Project2/build",
+  "command": "C:\\PROGRA~2\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/SpeechSystem.dir/includes_CXX.rsp -g -o CMakeFiles\\SpeechSystem.dir\\src\\main.cpp.obj -c C:\\Users\\MeatyBio\\Desktop\\code\\C++\\Project\\Project2\\src\\main.cpp",
+  "file": "C:/Users/MeatyBio/Desktop/code/C++/Project/Project2/src/main.cpp",
+  "output": "CMakeFiles/SpeechSystem.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/MeatyBio/Desktop/code/C++/Project/Project2/build",
+  "command": "C:\\PROGRA~2\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/SpeechSystem.dir/includes_CXX.rsp -g -o CMakeFiles\\SpeechSystem.dir\\src\\speaker.cpp.obj -c C:\\Users\\MeatyBio\\Desktop\\code\\C++\\Project\\Project2\\src\\speaker.cpp",
+  "file": "C:/Users/MeatyBio/Desktop/code/C++/Project/Project2/src/speaker.cpp",
+  "output": "CMakeFiles/SpeechSystem.dir/src/speaker.cpp.obj"
+},
+{
+  "directory": "C:/Users/MeatyBio/Desktop/code/C++/Project/Project2/build",
+  "command": "C:\\PROGRA~2\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/SpeechSystem.dir/includes_CXX.rsp -g -o CMakeFiles\\SpeechSystem.dir\\src\\speechManager.cpp.obj -c C:\\Users\\MeatyBio\\Desktop\\code\\C++\\Project\\Project2\\src\\speechManager.cpp",
+  "file": "C:/Users/MeatyBio/Desktop/code/C++/Project/Project2/src/speechManager.cpp",
+  "output": "CMakeFiles/SpeechSystem.dir/src/speechManager.cpp.obj"
+}
+]

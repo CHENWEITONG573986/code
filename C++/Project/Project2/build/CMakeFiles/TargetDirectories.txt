@@ -1,0 +1,3 @@
+C:/Users/MeatyBio/Desktop/code/C++/Project/Project2/build/CMakeFiles/SpeechSystem.dir
+C:/Users/MeatyBio/Desktop/code/C++/Project/Project2/build/CMakeFiles/edit_cache.dir
+C:/Users/MeatyBio/Desktop/code/C++/Project/Project2/build/CMakeFiles/rebuild_cache.dir
