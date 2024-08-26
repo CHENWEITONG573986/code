@@ -1,0 +1,120 @@
+body
+{
+    background-color: rgb(26, 26, 26);
+}
+h1
+{
+    color: gray;
+    background-color: palegreen;
+}
+p
+{
+    color: gray;
+    background-color: rgb(44, 43, 43);
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.fl {
+    float: left;
+}
+.fr {
+    float: right;
+}
+.clear {
+    clear: both;
+}
+/* container中只写和这个相关的,不写其他的 */
+.container {
+    width: 970px;
+    margin: 0px auto;
+}
+.header {
+    width: 970px;
+    height: 103px;
+    /*background-color: green;*/
+    margin: 0 auto;
+}
+.header .logo {
+    width: 277px;
+    height: 103px;
+    background-color: rgb(43, 43, 43);
+}
+.header .nav-lan {
+    width: 679px;
+    height: 103px;
+    margin-left: 14px;
+    /*background-color: green;*/
+}
+.header .nav-lan .language {
+    width: 137px;
+    height: 49px;
+    background-color: green;
+}
+.header .nav-lan .nav {
+    width: 679px;
+    height: 46px;
+    background-color: green;
+    margin-top: 8px;
+}
+.center {
+    width: 970px;
+    height: 435px;
+    /* background-color: yellow; */
+    margin: 0 auto;
+    margin-top: 10px;
+}
+.footer {
+    width: 970px;
+    height: 35px;
+    background-color: blue;
+	margin: 0 auto;
+    margin-top: 10px;
+}
+ 
+.center .logo {
+    width: 310px;
+    height: 435px;
+    background-color: goldenrod;
+}
+.center .nav-lan {
+    width: 650px;
+    height: 435px;
+    margin-left: 10px;
+    /* background-color: green; */
+}
+.center .nav-lan .zhong{
+    width: 450px;
+    height: 400px;
+    margin-right: 10px;
+   /* background-color: blue; */
+}
+.center .nav-lan .zhongyou {
+    width: 190px;
+    height: 400px;
+    background-color: darkorchid;
+}
+.center .nav-lan .zhongxia {
+    width: 650px;
+    height: 25px;
+    margin-top: 10px;
+    background-color: #008000;
+}
+.center .nav-lan .zhong .zhong1{
+    width: 450px;
+    height: 240px;
+    margin-bottom: 10px;
+    background-color: blue;
+}
+.center .nav-lan .zhong .zhong2{
+    width: 450px;
+    height: 110px;
+    margin-bottom: 10px;
+    background-color: blue;
+}
+.center .nav-lan .zhong .zhong3{
+    width: 450px;
+    height: 30px;
+	background-color: blue;
+}
