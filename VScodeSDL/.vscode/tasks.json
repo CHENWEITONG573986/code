@@ -1,0 +1,36 @@
+{
+    "tasks": [
+        {
+            "type": "cppbuild",
+            "label": "C/C++: g++.exe 生成活动文件",
+            "command": "C:\\Program Files\\mingw64\\bin\\g++.exe",
+            "args": [
+                "-fdiagnostics-color=always",
+                "-g",
+                "${file}",
+                //"main.cpp",
+                //"class.cpp",
+                "-o",
+                "${fileDirname}\\${fileBasenameNoExtension}.exe",
+                "-IC:\\Program Files\\SDL2-2.30.4.mingw\\x86_64-w64-mingw32\\include\\SDL2",
+                "-LC:\\Program Files\\SDL2-2.30.4.mingw\\x86_64-w64-mingw32\\lib",
+                "-lmingw32",
+                "-lSDL2main",
+                "-lSDL2",
+                //"-mwindows"
+            ],
+            "options": {
+                "cwd": "${fileDirname}"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "调试器生成的任务。"
+        }
+    ],
+    "version": "2.0.0"
+}

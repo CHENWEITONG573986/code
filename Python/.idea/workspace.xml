@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c119f15-7d17-4ded-b434-fc22ba53b832" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.vscode/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web/bilibili.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web/homework.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_primer_plus/.vscode/c_cpp_properties.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_primer_plus/.vscode/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_primer_plus/2342.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_primer_plus/Student_ID.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_primer_plus/ceshi.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_primer_plus/ceshi.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_primer_plus/jiami.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_primer_plus/jiami.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_primer_plus/lingxin.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_primer_plus/lingxin.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_primer_plus/save.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_primer_plus/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework10.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework10.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework11.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework11.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework12.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework12.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework13.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework13.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework3.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework4.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework5.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework5.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework6.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework6.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework7.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework7.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework8.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework8.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework9.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework9.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/work.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tips/hanshu1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tips/juzhishuo1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tips/juzhishuo1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tips/shuzu.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tips/shuzu.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tips/sizeof.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tips/sizeof.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tips/suhshu2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tips/suhshu2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tips/sushu.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tips/sushu.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tips/zifushuzu.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tips/zifushuzu.exe" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2gupH7wdqD0wnlpKWFlA8p65Lk8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.GNN.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="5c119f15-7d17-4ded-b434-fc22ba53b832" name="更改" comment="" />
+      <created>1716557225992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716557225992</updated>
+    </task>
+    <servers />
+  </component>
+</project>

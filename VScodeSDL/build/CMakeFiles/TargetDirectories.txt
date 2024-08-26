@@ -1,0 +1,3 @@
+C:/code/VScodeSDL/build/CMakeFiles/MyGame1.dir
+C:/code/VScodeSDL/build/CMakeFiles/edit_cache.dir
+C:/code/VScodeSDL/build/CMakeFiles/rebuild_cache.dir

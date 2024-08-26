@@ -1,0 +1,3 @@
+C:/code/VScodeSDL/CMakeFiles/MyGame1.dir
+C:/code/VScodeSDL/CMakeFiles/ALL_BUILD.dir
+C:/code/VScodeSDL/CMakeFiles/ZERO_CHECK.dir

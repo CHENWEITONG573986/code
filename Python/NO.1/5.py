@@ -1,0 +1,12 @@
+shopping=["4090","4080"]
+shopping.append("4070")
+shopping.append("4090D")
+shopping.remove("4090D")
+print(shopping)
+print(len(shopping))
+print(shopping[0])
+price=[13000,8000,4000]
+pricemax=max(price)
+pricemin=min(price)
+print(pricemax)
+print(pricemin)

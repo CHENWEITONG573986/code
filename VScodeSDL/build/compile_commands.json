@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/code/VScodeSDL/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\C__~1.EXE   -g -o CMakeFiles\\MyGame1.dir\\main.cpp.obj -c C:\\code\\VScodeSDL\\main.cpp",
+  "file": "C:/code/VScodeSDL/main.cpp",
+  "output": "CMakeFiles/MyGame1.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/code/VScodeSDL/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\C__~1.EXE   -g -o CMakeFiles\\MyGame1.dir\\class.cpp.obj -c C:\\code\\VScodeSDL\\class.cpp",
+  "file": "C:/code/VScodeSDL/class.cpp",
+  "output": "CMakeFiles/MyGame1.dir/class.cpp.obj"
+}
+]
