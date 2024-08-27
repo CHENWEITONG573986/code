@@ -8,8 +8,12 @@ using namespace std;
 class Manager : public Identity
 {
 public:
+<<<<<<< Updated upstream
     vector<Student> vStu;
     vector<Teacher> vTea;
+=======
+    
+>>>>>>> Stashed changes
 public:
     Manager();
     Manager(string name, string pwd);
@@ -19,5 +23,8 @@ public:
     void showComputer();
     void clearFile();
     void initVector();
+<<<<<<< Updated upstream
     bool cheakRepeak(int id,int type);
+=======
+>>>>>>> Stashed changes
 };

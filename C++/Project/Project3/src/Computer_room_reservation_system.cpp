@@ -87,7 +87,6 @@ void LoginIn(string fileName, int type)
                 system("pause");
                 system("cls");
                 person = new Student(id, name, pwd);
-
                 return;
             }
         }
@@ -105,7 +104,6 @@ void LoginIn(string fileName, int type)
                 system("pause");
                 system("cls");
                 person = new Teacher(id, name, pwd);
-
                 return;
             }
         }

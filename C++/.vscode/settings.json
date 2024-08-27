@@ -16,8 +16,12 @@
         "xtree": "cpp",
         "format": "cpp",
         "map": "cpp",
+<<<<<<< Updated upstream
         "utility": "cpp",
         "stack": "cpp"
+=======
+        "utility": "cpp"
+>>>>>>> Stashed changes
     },
     "cmake.ignoreCMakeListsMissing": true
 }
