@@ -16,6 +16,8 @@
         "xtree": "cpp",
         "format": "cpp",
         "map": "cpp",
-        "utility": "cpp"
-    }
+        "utility": "cpp",
+        "stack": "cpp"
+    },
+    "cmake.ignoreCMakeListsMissing": true
 }
