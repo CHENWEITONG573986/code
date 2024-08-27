@@ -1,26 +1,26 @@
 [
 {
-  "directory": "C:/Users/MeatyBio/Desktop/code/C++/Project/Project3/build",
-  "command": "C:\\PROGRA~2\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/Computer_room_reservation_system.dir/includes_CXX.rsp -g -o CMakeFiles\\Computer_room_reservation_system.dir\\src\\Computer_room_reservation_system.cpp.obj -c C:\\Users\\MeatyBio\\Desktop\\code\\C++\\Project\\Project3\\src\\Computer_room_reservation_system.cpp",
-  "file": "C:/Users/MeatyBio/Desktop/code/C++/Project/Project3/src/Computer_room_reservation_system.cpp",
+  "directory": "C:/code/C++/Project/Project3/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/Computer_room_reservation_system.dir/includes_CXX.rsp -g -o CMakeFiles\\Computer_room_reservation_system.dir\\src\\Computer_room_reservation_system.cpp.obj -c C:\\code\\C++\\Project\\Project3\\src\\Computer_room_reservation_system.cpp",
+  "file": "C:/code/C++/Project/Project3/src/Computer_room_reservation_system.cpp",
   "output": "CMakeFiles/Computer_room_reservation_system.dir/src/Computer_room_reservation_system.cpp.obj"
 },
 {
-  "directory": "C:/Users/MeatyBio/Desktop/code/C++/Project/Project3/build",
-  "command": "C:\\PROGRA~2\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/Computer_room_reservation_system.dir/includes_CXX.rsp -g -o CMakeFiles\\Computer_room_reservation_system.dir\\src\\manager.cpp.obj -c C:\\Users\\MeatyBio\\Desktop\\code\\C++\\Project\\Project3\\src\\manager.cpp",
-  "file": "C:/Users/MeatyBio/Desktop/code/C++/Project/Project3/src/manager.cpp",
+  "directory": "C:/code/C++/Project/Project3/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/Computer_room_reservation_system.dir/includes_CXX.rsp -g -o CMakeFiles\\Computer_room_reservation_system.dir\\src\\manager.cpp.obj -c C:\\code\\C++\\Project\\Project3\\src\\manager.cpp",
+  "file": "C:/code/C++/Project/Project3/src/manager.cpp",
   "output": "CMakeFiles/Computer_room_reservation_system.dir/src/manager.cpp.obj"
 },
 {
-  "directory": "C:/Users/MeatyBio/Desktop/code/C++/Project/Project3/build",
-  "command": "C:\\PROGRA~2\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/Computer_room_reservation_system.dir/includes_CXX.rsp -g -o CMakeFiles\\Computer_room_reservation_system.dir\\src\\student.cpp.obj -c C:\\Users\\MeatyBio\\Desktop\\code\\C++\\Project\\Project3\\src\\student.cpp",
-  "file": "C:/Users/MeatyBio/Desktop/code/C++/Project/Project3/src/student.cpp",
+  "directory": "C:/code/C++/Project/Project3/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/Computer_room_reservation_system.dir/includes_CXX.rsp -g -o CMakeFiles\\Computer_room_reservation_system.dir\\src\\student.cpp.obj -c C:\\code\\C++\\Project\\Project3\\src\\student.cpp",
+  "file": "C:/code/C++/Project/Project3/src/student.cpp",
   "output": "CMakeFiles/Computer_room_reservation_system.dir/src/student.cpp.obj"
 },
 {
-  "directory": "C:/Users/MeatyBio/Desktop/code/C++/Project/Project3/build",
-  "command": "C:\\PROGRA~2\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/Computer_room_reservation_system.dir/includes_CXX.rsp -g -o CMakeFiles\\Computer_room_reservation_system.dir\\src\\teacher.cpp.obj -c C:\\Users\\MeatyBio\\Desktop\\code\\C++\\Project\\Project3\\src\\teacher.cpp",
-  "file": "C:/Users/MeatyBio/Desktop/code/C++/Project/Project3/src/teacher.cpp",
+  "directory": "C:/code/C++/Project/Project3/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/Computer_room_reservation_system.dir/includes_CXX.rsp -g -o CMakeFiles\\Computer_room_reservation_system.dir\\src\\teacher.cpp.obj -c C:\\code\\C++\\Project\\Project3\\src\\teacher.cpp",
+  "file": "C:/code/C++/Project/Project3/src/teacher.cpp",
   "output": "CMakeFiles/Computer_room_reservation_system.dir/src/teacher.cpp.obj"
 }
 ]

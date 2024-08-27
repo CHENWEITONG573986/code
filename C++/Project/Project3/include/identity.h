@@ -1,6 +1,7 @@
 #pragma once
 #include <iostream>
 #include <string>
+#include <vector>
 #include <fstream>
 #include "globalFile.h"
 using namespace std;
