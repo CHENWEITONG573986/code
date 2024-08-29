@@ -13,6 +13,12 @@
 },
 {
   "directory": "C:/code/C++/Project/Project3/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/Computer_room_reservation_system.dir/includes_CXX.rsp -g -o CMakeFiles\\Computer_room_reservation_system.dir\\src\\orderFile.cpp.obj -c C:\\code\\C++\\Project\\Project3\\src\\orderFile.cpp",
+  "file": "C:/code/C++/Project/Project3/src/orderFile.cpp",
+  "output": "CMakeFiles/Computer_room_reservation_system.dir/src/orderFile.cpp.obj"
+},
+{
+  "directory": "C:/code/C++/Project/Project3/build",
   "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/Computer_room_reservation_system.dir/includes_CXX.rsp -g -o CMakeFiles\\Computer_room_reservation_system.dir\\src\\student.cpp.obj -c C:\\code\\C++\\Project\\Project3\\src\\student.cpp",
   "file": "C:/code/C++/Project/Project3/src/student.cpp",
   "output": "CMakeFiles/Computer_room_reservation_system.dir/src/student.cpp.obj"

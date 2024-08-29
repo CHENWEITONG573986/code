@@ -98,11 +98,26 @@ CMakeFiles/Computer_room_reservation_system.dir/src/manager.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Computer_room_reservation_system.dir/src/manager.cpp.s"
 	C:\PROGRA~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\code\C++\Project\Project3\src\manager.cpp -o CMakeFiles\Computer_room_reservation_system.dir\src\manager.cpp.s
 
+CMakeFiles/Computer_room_reservation_system.dir/src/orderFile.cpp.obj: CMakeFiles/Computer_room_reservation_system.dir/flags.make
+CMakeFiles/Computer_room_reservation_system.dir/src/orderFile.cpp.obj: CMakeFiles/Computer_room_reservation_system.dir/includes_CXX.rsp
+CMakeFiles/Computer_room_reservation_system.dir/src/orderFile.cpp.obj: C:/code/C++/Project/Project3/src/orderFile.cpp
+CMakeFiles/Computer_room_reservation_system.dir/src/orderFile.cpp.obj: CMakeFiles/Computer_room_reservation_system.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\code\C++\Project\Project3\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Computer_room_reservation_system.dir/src/orderFile.cpp.obj"
+	C:\PROGRA~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Computer_room_reservation_system.dir/src/orderFile.cpp.obj -MF CMakeFiles\Computer_room_reservation_system.dir\src\orderFile.cpp.obj.d -o CMakeFiles\Computer_room_reservation_system.dir\src\orderFile.cpp.obj -c C:\code\C++\Project\Project3\src\orderFile.cpp
+
+CMakeFiles/Computer_room_reservation_system.dir/src/orderFile.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Computer_room_reservation_system.dir/src/orderFile.cpp.i"
+	C:\PROGRA~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\code\C++\Project\Project3\src\orderFile.cpp > CMakeFiles\Computer_room_reservation_system.dir\src\orderFile.cpp.i
+
+CMakeFiles/Computer_room_reservation_system.dir/src/orderFile.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Computer_room_reservation_system.dir/src/orderFile.cpp.s"
+	C:\PROGRA~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\code\C++\Project\Project3\src\orderFile.cpp -o CMakeFiles\Computer_room_reservation_system.dir\src\orderFile.cpp.s
+
 CMakeFiles/Computer_room_reservation_system.dir/src/student.cpp.obj: CMakeFiles/Computer_room_reservation_system.dir/flags.make
 CMakeFiles/Computer_room_reservation_system.dir/src/student.cpp.obj: CMakeFiles/Computer_room_reservation_system.dir/includes_CXX.rsp
 CMakeFiles/Computer_room_reservation_system.dir/src/student.cpp.obj: C:/code/C++/Project/Project3/src/student.cpp
 CMakeFiles/Computer_room_reservation_system.dir/src/student.cpp.obj: CMakeFiles/Computer_room_reservation_system.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\code\C++\Project\Project3\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Computer_room_reservation_system.dir/src/student.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\code\C++\Project\Project3\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Computer_room_reservation_system.dir/src/student.cpp.obj"
 	C:\PROGRA~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Computer_room_reservation_system.dir/src/student.cpp.obj -MF CMakeFiles\Computer_room_reservation_system.dir\src\student.cpp.obj.d -o CMakeFiles\Computer_room_reservation_system.dir\src\student.cpp.obj -c C:\code\C++\Project\Project3\src\student.cpp
 
 CMakeFiles/Computer_room_reservation_system.dir/src/student.cpp.i: cmake_force
@@ -117,7 +132,7 @@ CMakeFiles/Computer_room_reservation_system.dir/src/teacher.cpp.obj: CMakeFiles/
 CMakeFiles/Computer_room_reservation_system.dir/src/teacher.cpp.obj: CMakeFiles/Computer_room_reservation_system.dir/includes_CXX.rsp
 CMakeFiles/Computer_room_reservation_system.dir/src/teacher.cpp.obj: C:/code/C++/Project/Project3/src/teacher.cpp
 CMakeFiles/Computer_room_reservation_system.dir/src/teacher.cpp.obj: CMakeFiles/Computer_room_reservation_system.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\code\C++\Project\Project3\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Computer_room_reservation_system.dir/src/teacher.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\code\C++\Project\Project3\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Computer_room_reservation_system.dir/src/teacher.cpp.obj"
 	C:\PROGRA~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Computer_room_reservation_system.dir/src/teacher.cpp.obj -MF CMakeFiles\Computer_room_reservation_system.dir\src\teacher.cpp.obj.d -o CMakeFiles\Computer_room_reservation_system.dir\src\teacher.cpp.obj -c C:\code\C++\Project\Project3\src\teacher.cpp
 
 CMakeFiles/Computer_room_reservation_system.dir/src/teacher.cpp.i: cmake_force
@@ -132,6 +147,7 @@ CMakeFiles/Computer_room_reservation_system.dir/src/teacher.cpp.s: cmake_force
 Computer_room_reservation_system_OBJECTS = \
 "CMakeFiles/Computer_room_reservation_system.dir/src/Computer_room_reservation_system.cpp.obj" \
 "CMakeFiles/Computer_room_reservation_system.dir/src/manager.cpp.obj" \
+"CMakeFiles/Computer_room_reservation_system.dir/src/orderFile.cpp.obj" \
 "CMakeFiles/Computer_room_reservation_system.dir/src/student.cpp.obj" \
 "CMakeFiles/Computer_room_reservation_system.dir/src/teacher.cpp.obj"
 
@@ -140,13 +156,14 @@ Computer_room_reservation_system_EXTERNAL_OBJECTS =
 
 Computer_room_reservation_system.exe: CMakeFiles/Computer_room_reservation_system.dir/src/Computer_room_reservation_system.cpp.obj
 Computer_room_reservation_system.exe: CMakeFiles/Computer_room_reservation_system.dir/src/manager.cpp.obj
+Computer_room_reservation_system.exe: CMakeFiles/Computer_room_reservation_system.dir/src/orderFile.cpp.obj
 Computer_room_reservation_system.exe: CMakeFiles/Computer_room_reservation_system.dir/src/student.cpp.obj
 Computer_room_reservation_system.exe: CMakeFiles/Computer_room_reservation_system.dir/src/teacher.cpp.obj
 Computer_room_reservation_system.exe: CMakeFiles/Computer_room_reservation_system.dir/build.make
 Computer_room_reservation_system.exe: CMakeFiles/Computer_room_reservation_system.dir/linkLibs.rsp
 Computer_room_reservation_system.exe: CMakeFiles/Computer_room_reservation_system.dir/objects1.rsp
 Computer_room_reservation_system.exe: CMakeFiles/Computer_room_reservation_system.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\code\C++\Project\Project3\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable Computer_room_reservation_system.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\code\C++\Project\Project3\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable Computer_room_reservation_system.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Computer_room_reservation_system.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

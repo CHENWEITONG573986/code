@@ -17,6 +17,7 @@ void Manager::openMenu()
     cout << "3.showComputer" << endl;
     cout << "4.clearFile" << endl;
     cout << "0.Sign out" << endl;
+    cout << "Please Enter your select:";
 }
 void Manager::addPerson()
 {
@@ -35,7 +36,6 @@ void Manager::addPerson()
     int id;
     string name;
     string pwd;
-
     while (true)
     {
         cout << "Please Enter your ID:";
@@ -46,7 +46,6 @@ void Manager::addPerson()
         else
             break;
     }
-
     cout << "Please Enter your name:";
     cin >> name;
     cout << "Please Enter your pwd:";
@@ -58,21 +57,54 @@ void Manager::addPerson()
     system("cls");
     ofs.close();
 }
+
+void printStudent(Student &s)
+{
+    cout << "ID:" << s.m_ID << " Name:" << s.m_Name << " Pwd:" << s.m_Pwd << endl;
+}
+
+void printTeacher(Teacher &t)
+{
+    cout << "ID:" << t.m_empId << " Name:" << t.m_Name << " Pwd:" << t.m_Pwd << endl;
+}
+
 void Manager::showPerson()
 {
+    cout << "Student--------" << endl;
+    for_each(vStu.begin(), vStu.end(), printStudent);
+    cout << endl;
+    cout << "Teacher--------" << endl;
+    for_each(vTea.begin(), vTea.end(), printTeacher);
 }
+
+void printComputerRoom(ComputerRoom &c)
+{
+    cout << "ID:" << c.m_ComId << " MaxNum:" << c.m_MaxNum << endl;
+}
+
 void Manager::showComputer()
 {
+    for_each(vCom.begin(), vCom.end(), printComputerRoom);
+    cout << endl;
 }
+
 void Manager::clearFile()
 {
+    ofstream ofs;
+    ofs.open(ORDER_FILE, ios::trunc);
+    ofs.close();
+    cout << "Cleared successfully" << endl;
+    system("pause");
+    system("cls");
 }
 
 void Manager::initVector()
 {
     vStu.clear();
     vTea.clear();
+    vCom.clear();
     ifstream ifs;
+    // Student
     ifs.open(STUDENT_FILE, ios::in);
     if (!ifs.is_open())
     {
@@ -86,7 +118,7 @@ void Manager::initVector()
     }
     cout << "Student number: " << vStu.size() << endl;
     ifs.close();
-
+    // Teacher
     ifs.open(TEACHER_FILE, ios::in);
     if (!ifs.is_open())
     {
@@ -99,6 +131,20 @@ void Manager::initVector()
         vTea.push_back(t);
     }
     cout << "Teacher number: " << vTea.size() << endl;
+    ifs.close();
+    // ComputerRoom
+    ifs.open(COMPUTER_FILE, ios::in);
+    if (!ifs.is_open())
+    {
+        cout << "File Failed to open" << endl;
+        return;
+    }
+    ComputerRoom com;
+    while (ifs >> com.m_ComId && ifs >> com.m_MaxNum)
+    {
+        vCom.push_back(com);
+    }
+    cout << "ComputerRoom number: " << vCom.size() << endl;
     ifs.close();
 }
 

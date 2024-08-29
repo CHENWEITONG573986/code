@@ -3,7 +3,9 @@
 #include <string>
 #include <vector>
 #include <fstream>
+#include <algorithm>
 #include "globalFile.h"
+#include "orderFile.h"
 using namespace std;
 
 // Identity-based classes

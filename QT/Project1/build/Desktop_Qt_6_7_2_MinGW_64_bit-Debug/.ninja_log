@@ -1,0 +1,10 @@
+# ninja log v6
+9	116	7465978892670038	C:/code/QT/Project1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	1b5251b9fc5bf5a3
+118	759	7465978899227943	Project1_autogen/timestamp	81d9d47e1348dd6e
+118	759	7465978899227943	Project1_autogen/mocs_compilation.cpp	81d9d47e1348dd6e
+118	759	7465978899227943	C:/code/QT/Project1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Project1_autogen/timestamp	81d9d47e1348dd6e
+118	759	7465978899227943	C:/code/QT/Project1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Project1_autogen/mocs_compilation.cpp	81d9d47e1348dd6e
+766	2239	7465978900242120	CMakeFiles/Project1.dir/Project1_autogen/mocs_compilation.cpp.obj	de2e2b4f4525d3b0
+774	2301	7465978900322166	CMakeFiles/Project1.dir/main.cpp.obj	d8002bd733543ae8
+782	2306	7465978900402421	CMakeFiles/Project1.dir/widget.cpp.obj	45a46b881fc20967
+2306	2489	7465978915647822	Project1.exe	e0aaa9180e37b73b

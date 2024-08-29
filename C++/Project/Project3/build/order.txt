@@ -1,0 +1,5 @@
+Data:1 Interval:1 Id:12 Name:12 Room:1 Status:0
+Data:2 Interval:2 Id:12 Name:12 Room:1 Status:2
+Data:3 Interval:1 Id:12 Name:12 Room:2 Status:1
+Data:4 Interval:1 Id:12 Name:12 Room:2 Status:1
+Data:5 Interval:2 Id:12 Name:12 Room:3 Status:3

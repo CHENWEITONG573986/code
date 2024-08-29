@@ -47,6 +47,68 @@ void managerMenu(Identity *manager)
     }
 }
 
+void studentMenu(Identity *student)
+{
+    while (true)
+    {
+        student->openMenu();
+        Student *stu = (Student *)student;
+        int select = 0;
+        cin >> select;
+        if (select == 1)
+        {
+            stu->applyOrder();
+        }
+        else if (select == 2)
+        {
+            stu->showMyOrder();
+        }
+        else if (select == 3)
+        {
+            stu->showAllOrder();
+        }
+        else if (select == 4)
+        {
+            stu->cancelOrder();
+        }
+        else
+        {
+            delete student;
+            cout << "Sign out" << endl;
+            system("pause");
+            system("cls");
+            return;
+        }
+    }
+}
+
+void teacherMenu(Identity *teacher)
+{
+    while (true)
+    {
+        teacher->openMenu();
+        Teacher *tea = (Teacher *)teacher;
+        int select = 0;
+        cin >> select;
+        if (select == 1)
+        {
+            tea->showAllOrder();
+        }
+        else if (select == 2)
+        {
+            tea->vaildOrder();
+        }
+        else
+        {
+            delete teacher;
+            cout << "Sign out" << endl;
+            system("pause");
+            system("cls");
+            return;
+        }
+    }
+}
+
 void LoginIn(string fileName, int type)
 {
     Identity *person = NULL;
@@ -87,6 +149,7 @@ void LoginIn(string fileName, int type)
                 system("pause");
                 system("cls");
                 person = new Student(id, name, pwd);
+                studentMenu(person);
                 return;
             }
         }
@@ -104,6 +167,7 @@ void LoginIn(string fileName, int type)
                 system("pause");
                 system("cls");
                 person = new Teacher(id, name, pwd);
+                teacherMenu(person);
                 return;
             }
         }

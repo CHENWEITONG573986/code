@@ -8,6 +8,8 @@
     "xlocmon": "cpp",
     "xlocnum": "cpp",
     "xloctime": "cpp",
-    "xstring": "cpp"
+    "xstring": "cpp",
+    "iosfwd": "cpp",
+    "fstream": "cpp"
   }
 }
