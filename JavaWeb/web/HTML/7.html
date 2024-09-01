@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <img width="200" height="100" id="light" src="img/2.jpg">
+    <br>
+    <input type="button" value="on" onclick="on()">
+    <input type="button" value="off" onclick="off()"> 
+    <br><br>
+    <input type="text" id="name" value="ITCAST" onfocus="lower()" onblur="upper()">
+    <br><br>
+    <input type="checkbox" name="hobby"> A
+    <input type="checkbox" name="hobby"> B
+    <input type="checkbox" name="hobby"> C
+    <br>
+    <input type="button" value="全选" onclick="checkAll()">
+    <input type="button" value="反选" onclick="reverse()">
+</body>
+    <script>
+        function on() {
+            var img = document.getElementById("light");
+            img.src = "img/1.png";
+        }
+        function off() {
+                var img = document.getElementById("light");
+                img.src = "img/2.jpg";
+            }
+        function lower() {
+            var obj = document.getElementById("name");
+            obj.value = obj.value.toLowerCase();
+        }
+        function upper() {
+            var obj = document.getElementById("name");
+            obj.value = obj.value.toUpperCase();
+        }
+        function checkAll() {
+            var hobbys = document.getElementsByName("hobby");
+            for (let i=0; i < hobbys.length; i++) {
+                const obj = hobbys[i];
+                obj.checked = true;
+            }
+        }
+        function reverse() {
+            var hobbys = document.getElementsByName("hobby");
+            for (let i = 0; i < hobbys.length; i++) {
+                const obj = hobbys[i];
+                obj.checked = false;
+            }
+        }
+    </script>
+</html>

@@ -16,4 +16,8 @@ int main()
     cout << sizeof(City) << endl;
     cout << City::BEIJIN->name << endl;
     cout << City::BEIJIN->num << endl;
+    auto c = [](auto a, auto b)
+    {
+        return a > b;
+    };
 }

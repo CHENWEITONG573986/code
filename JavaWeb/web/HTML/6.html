@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <img width="200" height="100"  id="h1" src="img/2.jpg">
+    <div class="cls">黑神话：悟空</div> <br>
+    <div class="cls">真好玩</div> <br>
+    <input type="checkbox" name="hobby"> A
+    <input type="checkbox" name="hobby"> B
+    <input type="checkbox" name="hobby"> C 
+</body>
+<script>
+    var img = document.getElementById('h1');
+    if (1) {
+        img.src = "img/1.png";
+    }
+    var divs = document.getElementsByTagName("div");
+    for (let i = 0; i < divs.length; i++) {
+        const div = divs[i];
+        div.innerHTML += "<font color = 'red'>very good</font>";
+    }
+    var names = document.getElementsByName("hobby");
+    for (let i = 0; i < names.length; i++) {
+        const chek = names[i];
+        chek.checked = true;
+    }
+</script>
+</html>
