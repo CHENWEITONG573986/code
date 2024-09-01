@@ -1,0 +1,56 @@
+[
+{
+  "directory": "C:/code/QT/Project5/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Debug\\\" -IC:/code/QT/Project5/build/Project5_autogen/include_Debug -isystem C:/Qt/6.7.2/mingw_64/include/QtCore -isystem C:/Qt/6.7.2/mingw_64/include -isystem C:/Qt/6.7.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.2/mingw_64/include/QtGui -g -std=gnu++17 -o CMakeFiles\\Project5.dir\\Debug\\Project5_autogen\\mocs_compilation_Debug.cpp.obj -c C:\\code\\QT\\Project5\\build\\Project5_autogen\\mocs_compilation_Debug.cpp",
+  "file": "C:\\code\\QT\\Project5\\build\\Project5_autogen\\mocs_compilation_Debug.cpp",
+  "output": "CMakeFiles\\Project5.dir\\Debug\\Project5_autogen\\mocs_compilation_Debug.cpp.obj"
+},
+{
+  "directory": "C:/code/QT/Project5/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Debug\\\" -IC:/code/QT/Project5/build/Project5_autogen/include_Debug -isystem C:/Qt/6.7.2/mingw_64/include/QtCore -isystem C:/Qt/6.7.2/mingw_64/include -isystem C:/Qt/6.7.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.2/mingw_64/include/QtGui -g -std=gnu++17 -o CMakeFiles\\Project5.dir\\Debug\\main.cpp.obj -c C:\\code\\QT\\Project5\\main.cpp",
+  "file": "C:\\code\\QT\\Project5\\main.cpp",
+  "output": "CMakeFiles\\Project5.dir\\Debug\\main.cpp.obj"
+},
+{
+  "directory": "C:/code/QT/Project5/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Debug\\\" -IC:/code/QT/Project5/build/Project5_autogen/include_Debug -isystem C:/Qt/6.7.2/mingw_64/include/QtCore -isystem C:/Qt/6.7.2/mingw_64/include -isystem C:/Qt/6.7.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.2/mingw_64/include/QtGui -g -std=gnu++17 -o CMakeFiles\\Project5.dir\\Debug\\widget.cpp.obj -c C:\\code\\QT\\Project5\\widget.cpp",
+  "file": "C:\\code\\QT\\Project5\\widget.cpp",
+  "output": "CMakeFiles\\Project5.dir\\Debug\\widget.cpp.obj"
+},
+{
+  "directory": "C:/code/QT/Project5/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Release\\\" -IC:/code/QT/Project5/build/Project5_autogen/include_Release -isystem C:/Qt/6.7.2/mingw_64/include/QtCore -isystem C:/Qt/6.7.2/mingw_64/include -isystem C:/Qt/6.7.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.2/mingw_64/include/QtGui -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\Project5.dir\\Release\\Project5_autogen\\mocs_compilation_Release.cpp.obj -c C:\\code\\QT\\Project5\\build\\Project5_autogen\\mocs_compilation_Release.cpp",
+  "file": "C:\\code\\QT\\Project5\\build\\Project5_autogen\\mocs_compilation_Release.cpp",
+  "output": "CMakeFiles\\Project5.dir\\Release\\Project5_autogen\\mocs_compilation_Release.cpp.obj"
+},
+{
+  "directory": "C:/code/QT/Project5/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Release\\\" -IC:/code/QT/Project5/build/Project5_autogen/include_Release -isystem C:/Qt/6.7.2/mingw_64/include/QtCore -isystem C:/Qt/6.7.2/mingw_64/include -isystem C:/Qt/6.7.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.2/mingw_64/include/QtGui -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\Project5.dir\\Release\\main.cpp.obj -c C:\\code\\QT\\Project5\\main.cpp",
+  "file": "C:\\code\\QT\\Project5\\main.cpp",
+  "output": "CMakeFiles\\Project5.dir\\Release\\main.cpp.obj"
+},
+{
+  "directory": "C:/code/QT/Project5/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Release\\\" -IC:/code/QT/Project5/build/Project5_autogen/include_Release -isystem C:/Qt/6.7.2/mingw_64/include/QtCore -isystem C:/Qt/6.7.2/mingw_64/include -isystem C:/Qt/6.7.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.2/mingw_64/include/QtGui -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\Project5.dir\\Release\\widget.cpp.obj -c C:\\code\\QT\\Project5\\widget.cpp",
+  "file": "C:\\code\\QT\\Project5\\widget.cpp",
+  "output": "CMakeFiles\\Project5.dir\\Release\\widget.cpp.obj"
+},
+{
+  "directory": "C:/code/QT/Project5/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IC:/code/QT/Project5/build/Project5_autogen/include_RelWithDebInfo -isystem C:/Qt/6.7.2/mingw_64/include/QtCore -isystem C:/Qt/6.7.2/mingw_64/include -isystem C:/Qt/6.7.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.2/mingw_64/include/QtGui -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles\\Project5.dir\\RelWithDebInfo\\Project5_autogen\\mocs_compilation_RelWithDebInfo.cpp.obj -c C:\\code\\QT\\Project5\\build\\Project5_autogen\\mocs_compilation_RelWithDebInfo.cpp",
+  "file": "C:\\code\\QT\\Project5\\build\\Project5_autogen\\mocs_compilation_RelWithDebInfo.cpp",
+  "output": "CMakeFiles\\Project5.dir\\RelWithDebInfo\\Project5_autogen\\mocs_compilation_RelWithDebInfo.cpp.obj"
+},
+{
+  "directory": "C:/code/QT/Project5/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IC:/code/QT/Project5/build/Project5_autogen/include_RelWithDebInfo -isystem C:/Qt/6.7.2/mingw_64/include/QtCore -isystem C:/Qt/6.7.2/mingw_64/include -isystem C:/Qt/6.7.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.2/mingw_64/include/QtGui -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles\\Project5.dir\\RelWithDebInfo\\main.cpp.obj -c C:\\code\\QT\\Project5\\main.cpp",
+  "file": "C:\\code\\QT\\Project5\\main.cpp",
+  "output": "CMakeFiles\\Project5.dir\\RelWithDebInfo\\main.cpp.obj"
+},
+{
+  "directory": "C:/code/QT/Project5/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IC:/code/QT/Project5/build/Project5_autogen/include_RelWithDebInfo -isystem C:/Qt/6.7.2/mingw_64/include/QtCore -isystem C:/Qt/6.7.2/mingw_64/include -isystem C:/Qt/6.7.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.2/mingw_64/include/QtGui -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles\\Project5.dir\\RelWithDebInfo\\widget.cpp.obj -c C:\\code\\QT\\Project5\\widget.cpp",
+  "file": "C:\\code\\QT\\Project5\\widget.cpp",
+  "output": "CMakeFiles\\Project5.dir\\RelWithDebInfo\\widget.cpp.obj"
+}
+]

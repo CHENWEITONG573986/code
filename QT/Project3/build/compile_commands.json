@@ -1,0 +1,56 @@
+[
+{
+  "directory": "C:/code/QT/Project3/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Debug\\\" -IC:/code/QT/Project3/build -IC:/code/QT/Project3 -IC:/code/QT/Project3/build/HelloQt_autogen/include_Debug -isystem C:/Qt/6.7.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.2/mingw_64/include -isystem C:/Qt/6.7.2/mingw_64/include/QtCore -isystem C:/Qt/6.7.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.2/mingw_64/include/QtGui -g -std=gnu++17 -o CMakeFiles\\HelloQt.dir\\Debug\\HelloQt_autogen\\mocs_compilation_Debug.cpp.obj -c C:\\code\\QT\\Project3\\build\\HelloQt_autogen\\mocs_compilation_Debug.cpp",
+  "file": "C:\\code\\QT\\Project3\\build\\HelloQt_autogen\\mocs_compilation_Debug.cpp",
+  "output": "CMakeFiles\\HelloQt.dir\\Debug\\HelloQt_autogen\\mocs_compilation_Debug.cpp.obj"
+},
+{
+  "directory": "C:/code/QT/Project3/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Debug\\\" -IC:/code/QT/Project3/build -IC:/code/QT/Project3 -IC:/code/QT/Project3/build/HelloQt_autogen/include_Debug -isystem C:/Qt/6.7.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.2/mingw_64/include -isystem C:/Qt/6.7.2/mingw_64/include/QtCore -isystem C:/Qt/6.7.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.2/mingw_64/include/QtGui -g -std=gnu++17 -o CMakeFiles\\HelloQt.dir\\Debug\\src\\HelloQt.cpp.obj -c C:\\code\\QT\\Project3\\src\\HelloQt.cpp",
+  "file": "C:\\code\\QT\\Project3\\src\\HelloQt.cpp",
+  "output": "CMakeFiles\\HelloQt.dir\\Debug\\src\\HelloQt.cpp.obj"
+},
+{
+  "directory": "C:/code/QT/Project3/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Debug\\\" -IC:/code/QT/Project3/build -IC:/code/QT/Project3 -IC:/code/QT/Project3/build/HelloQt_autogen/include_Debug -isystem C:/Qt/6.7.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.2/mingw_64/include -isystem C:/Qt/6.7.2/mingw_64/include/QtCore -isystem C:/Qt/6.7.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.2/mingw_64/include/QtGui -g -std=gnu++17 -o CMakeFiles\\HelloQt.dir\\Debug\\src\\main.cpp.obj -c C:\\code\\QT\\Project3\\src\\main.cpp",
+  "file": "C:\\code\\QT\\Project3\\src\\main.cpp",
+  "output": "CMakeFiles\\HelloQt.dir\\Debug\\src\\main.cpp.obj"
+},
+{
+  "directory": "C:/code/QT/Project3/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Release\\\" -IC:/code/QT/Project3/build -IC:/code/QT/Project3 -IC:/code/QT/Project3/build/HelloQt_autogen/include_Release -isystem C:/Qt/6.7.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.2/mingw_64/include -isystem C:/Qt/6.7.2/mingw_64/include/QtCore -isystem C:/Qt/6.7.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.2/mingw_64/include/QtGui -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\HelloQt.dir\\Release\\HelloQt_autogen\\mocs_compilation_Release.cpp.obj -c C:\\code\\QT\\Project3\\build\\HelloQt_autogen\\mocs_compilation_Release.cpp",
+  "file": "C:\\code\\QT\\Project3\\build\\HelloQt_autogen\\mocs_compilation_Release.cpp",
+  "output": "CMakeFiles\\HelloQt.dir\\Release\\HelloQt_autogen\\mocs_compilation_Release.cpp.obj"
+},
+{
+  "directory": "C:/code/QT/Project3/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Release\\\" -IC:/code/QT/Project3/build -IC:/code/QT/Project3 -IC:/code/QT/Project3/build/HelloQt_autogen/include_Release -isystem C:/Qt/6.7.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.2/mingw_64/include -isystem C:/Qt/6.7.2/mingw_64/include/QtCore -isystem C:/Qt/6.7.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.2/mingw_64/include/QtGui -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\HelloQt.dir\\Release\\src\\HelloQt.cpp.obj -c C:\\code\\QT\\Project3\\src\\HelloQt.cpp",
+  "file": "C:\\code\\QT\\Project3\\src\\HelloQt.cpp",
+  "output": "CMakeFiles\\HelloQt.dir\\Release\\src\\HelloQt.cpp.obj"
+},
+{
+  "directory": "C:/code/QT/Project3/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Release\\\" -IC:/code/QT/Project3/build -IC:/code/QT/Project3 -IC:/code/QT/Project3/build/HelloQt_autogen/include_Release -isystem C:/Qt/6.7.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.2/mingw_64/include -isystem C:/Qt/6.7.2/mingw_64/include/QtCore -isystem C:/Qt/6.7.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.2/mingw_64/include/QtGui -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\HelloQt.dir\\Release\\src\\main.cpp.obj -c C:\\code\\QT\\Project3\\src\\main.cpp",
+  "file": "C:\\code\\QT\\Project3\\src\\main.cpp",
+  "output": "CMakeFiles\\HelloQt.dir\\Release\\src\\main.cpp.obj"
+},
+{
+  "directory": "C:/code/QT/Project3/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IC:/code/QT/Project3/build -IC:/code/QT/Project3 -IC:/code/QT/Project3/build/HelloQt_autogen/include_RelWithDebInfo -isystem C:/Qt/6.7.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.2/mingw_64/include -isystem C:/Qt/6.7.2/mingw_64/include/QtCore -isystem C:/Qt/6.7.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.2/mingw_64/include/QtGui -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles\\HelloQt.dir\\RelWithDebInfo\\HelloQt_autogen\\mocs_compilation_RelWithDebInfo.cpp.obj -c C:\\code\\QT\\Project3\\build\\HelloQt_autogen\\mocs_compilation_RelWithDebInfo.cpp",
+  "file": "C:\\code\\QT\\Project3\\build\\HelloQt_autogen\\mocs_compilation_RelWithDebInfo.cpp",
+  "output": "CMakeFiles\\HelloQt.dir\\RelWithDebInfo\\HelloQt_autogen\\mocs_compilation_RelWithDebInfo.cpp.obj"
+},
+{
+  "directory": "C:/code/QT/Project3/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IC:/code/QT/Project3/build -IC:/code/QT/Project3 -IC:/code/QT/Project3/build/HelloQt_autogen/include_RelWithDebInfo -isystem C:/Qt/6.7.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.2/mingw_64/include -isystem C:/Qt/6.7.2/mingw_64/include/QtCore -isystem C:/Qt/6.7.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.2/mingw_64/include/QtGui -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles\\HelloQt.dir\\RelWithDebInfo\\src\\HelloQt.cpp.obj -c C:\\code\\QT\\Project3\\src\\HelloQt.cpp",
+  "file": "C:\\code\\QT\\Project3\\src\\HelloQt.cpp",
+  "output": "CMakeFiles\\HelloQt.dir\\RelWithDebInfo\\src\\HelloQt.cpp.obj"
+},
+{
+  "directory": "C:/code/QT/Project3/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IC:/code/QT/Project3/build -IC:/code/QT/Project3 -IC:/code/QT/Project3/build/HelloQt_autogen/include_RelWithDebInfo -isystem C:/Qt/6.7.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.2/mingw_64/include -isystem C:/Qt/6.7.2/mingw_64/include/QtCore -isystem C:/Qt/6.7.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.2/mingw_64/include/QtGui -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles\\HelloQt.dir\\RelWithDebInfo\\src\\main.cpp.obj -c C:\\code\\QT\\Project3\\src\\main.cpp",
+  "file": "C:\\code\\QT\\Project3\\src\\main.cpp",
+  "output": "CMakeFiles\\HelloQt.dir\\RelWithDebInfo\\src\\main.cpp.obj"
+}
+]

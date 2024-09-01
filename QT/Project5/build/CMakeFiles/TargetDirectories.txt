@@ -1,0 +1,8 @@
+C:/code/QT/Project5/build/CMakeFiles/Project5.dir
+C:/code/QT/Project5/build/CMakeFiles/edit_cache.dir
+C:/code/QT/Project5/build/CMakeFiles/rebuild_cache.dir
+C:/code/QT/Project5/build/CMakeFiles/install.dir
+C:/code/QT/Project5/build/CMakeFiles/install/local.dir
+C:/code/QT/Project5/build/CMakeFiles/install/strip.dir
+C:/code/QT/Project5/build/CMakeFiles/Project5_autogen_timestamp_deps.dir
+C:/code/QT/Project5/build/CMakeFiles/Project5_autogen.dir

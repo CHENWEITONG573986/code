@@ -1,0 +1,5 @@
+C:/code/QT/Project4/build/CMakeFiles/one.dir
+C:/code/QT/Project4/build/CMakeFiles/edit_cache.dir
+C:/code/QT/Project4/build/CMakeFiles/rebuild_cache.dir
+C:/code/QT/Project4/build/CMakeFiles/one_autogen_timestamp_deps.dir
+C:/code/QT/Project4/build/CMakeFiles/one_autogen.dir

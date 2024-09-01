@@ -1,0 +1,9 @@
+# ninja log v6
+8	660	7466998605185806	Project5_autogen/timestamp	8311871d67bfe6bc
+8	660	7466998605185806	Project5_autogen/mocs_compilation_Debug.cpp	8311871d67bfe6bc
+8	660	7466998605185806	C:/code/QT/Project5/build/Project5_autogen/timestamp	8311871d67bfe6bc
+8	660	7466998605185806	C:/code/QT/Project5/build/Project5_autogen/mocs_compilation_Debug.cpp	8311871d67bfe6bc
+661	2239	7466998606152472	CMakeFiles/Project5.dir/Debug/Project5_autogen/mocs_compilation_Debug.cpp.obj	ecabc7d7ad8ad417
+680	2306	7466998606335694	CMakeFiles/Project5.dir/Debug/widget.cpp.obj	35cb7dffc88a3f07
+670	2309	7466998606248168	CMakeFiles/Project5.dir/Debug/main.cpp.obj	9322a391465518f5
+2309	2504	7466998622621759	Debug/Project5.exe	8af4ea1ca94e77da

@@ -1,0 +1,20 @@
+# ninja log v6
+7	690	7467096899099179	NotaBook_autogen/timestamp	e4f75ebbba456f09
+7	690	7467096899099179	NotaBook_autogen/mocs_compilation.cpp	e4f75ebbba456f09
+7	690	7467096899099179	C:/code/QT/NotaBook/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/NotaBook_autogen/timestamp	e4f75ebbba456f09
+7	690	7467096899099179	C:/code/QT/NotaBook/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/NotaBook_autogen/mocs_compilation.cpp	e4f75ebbba456f09
+697	905	7467096902119780	NotaBook_autogen/EWIEGA46WW/qrc_res.cpp	56db207a6386b383
+697	905	7467096902119780	C:/code/QT/NotaBook/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/NotaBook_autogen/EWIEGA46WW/qrc_res.cpp	56db207a6386b383
+905	2598	7467096902210424	CMakeFiles/NotaBook.dir/NotaBook_autogen/mocs_compilation.cpp.obj	a65297183a177487
+913	2606	7467096902290635	CMakeFiles/NotaBook.dir/main.cpp.obj	24ad2efdc6fd4cac
+922	2876	7467096902375695	CMakeFiles/NotaBook.dir/notabook.cpp.obj	1bdff8dfd43b7a79
+932	4580	7467096902477121	CMakeFiles/NotaBook.dir/NotaBook_autogen/EWIEGA46WW/qrc_res.cpp.obj	48bae2a182cb424
+4580	4799	7467096938969271	NotaBook.exe	81ad529f32fcab0
+13	602	7467099164608907	NotaBook_autogen/timestamp	e4f75ebbba456f09
+13	602	7467099164608907	NotaBook_autogen/mocs_compilation.cpp	e4f75ebbba456f09
+13	602	7467099164608907	C:/code/QT/NotaBook/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/NotaBook_autogen/timestamp	e4f75ebbba456f09
+13	602	7467099164608907	C:/code/QT/NotaBook/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/NotaBook_autogen/mocs_compilation.cpp	e4f75ebbba456f09
+604	2065	7467099165515580	CMakeFiles/NotaBook.dir/NotaBook_autogen/mocs_compilation.cpp.obj	a65297183a177487
+613	2140	7467099165608558	CMakeFiles/NotaBook.dir/main.cpp.obj	24ad2efdc6fd4cac
+621	2313	7467099165688578	CMakeFiles/NotaBook.dir/notabook.cpp.obj	1bdff8dfd43b7a79
+2313	2527	7467099182609247	NotaBook.exe	81ad529f32fcab0

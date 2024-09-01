@@ -1,0 +1,5 @@
+C:/code/QT/Project3/build/CMakeFiles/HelloQt.dir
+C:/code/QT/Project3/build/CMakeFiles/edit_cache.dir
+C:/code/QT/Project3/build/CMakeFiles/rebuild_cache.dir
+C:/code/QT/Project3/build/CMakeFiles/HelloQt_autogen_timestamp_deps.dir
+C:/code/QT/Project3/build/CMakeFiles/HelloQt_autogen.dir

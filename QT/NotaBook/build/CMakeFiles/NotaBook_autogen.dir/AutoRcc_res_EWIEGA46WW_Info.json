@@ -1,0 +1,30 @@
+{
+	"BUILD_DIR" : "C:/code/QT/NotaBook/build/NotaBook_autogen",
+	"CMAKE_BINARY_DIR" : "C:/code/QT/NotaBook/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/code/QT/NotaBook/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/code/QT/NotaBook",
+	"CMAKE_SOURCE_DIR" : "C:/code/QT/NotaBook",
+	"GENERATOR" : "Ninja Multi-Config",
+	"INCLUDE_DIR" : "C:/code/QT/NotaBook/build/NotaBook_autogen/include",
+	"INCLUDE_DIR_Debug" : "C:/code/QT/NotaBook/build/NotaBook_autogen/include_Debug",
+	"INCLUDE_DIR_RelWithDebInfo" : "C:/code/QT/NotaBook/build/NotaBook_autogen/include_RelWithDebInfo",
+	"INCLUDE_DIR_Release" : "C:/code/QT/NotaBook/build/NotaBook_autogen/include_Release",
+	"INPUTS" : 
+	[
+		"C:/code/QT/NotaBook/img/1.png",
+		"C:/code/QT/NotaBook/img/GLnEaTTqTN.jpg"
+	],
+	"LOCK_FILE" : "C:/code/QT/NotaBook/build/CMakeFiles/NotaBook_autogen.dir/AutoRcc_res_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : true,
+	"OPTIONS" : [ "--no-zstd", "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.7.2/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/code/QT/NotaBook/build/CMakeFiles/NotaBook_autogen.dir/AutoRcc_res_EWIEGA46WW_Used.txt",
+	"SETTINGS_FILE_Debug" : "C:/code/QT/NotaBook/build/CMakeFiles/NotaBook_autogen.dir/AutoRcc_res_EWIEGA46WW_Used_Debug.txt",
+	"SETTINGS_FILE_RelWithDebInfo" : "C:/code/QT/NotaBook/build/CMakeFiles/NotaBook_autogen.dir/AutoRcc_res_EWIEGA46WW_Used_RelWithDebInfo.txt",
+	"SETTINGS_FILE_Release" : "C:/code/QT/NotaBook/build/CMakeFiles/NotaBook_autogen.dir/AutoRcc_res_EWIEGA46WW_Used_Release.txt",
+	"SOURCE" : "C:/code/QT/NotaBook/res.qrc",
+	"VERBOSITY" : 0
+}

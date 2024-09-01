@@ -1,0 +1,74 @@
+[
+{
+  "directory": "C:/code/QT/NotaBook/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Debug\\\" -IC:/code/QT/NotaBook/build/NotaBook_autogen/include_Debug -isystem C:/Qt/6.7.2/mingw_64/include/QtCore -isystem C:/Qt/6.7.2/mingw_64/include -isystem C:/Qt/6.7.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.2/mingw_64/include/QtGui -g -std=gnu++17 -o CMakeFiles\\NotaBook.dir\\Debug\\NotaBook_autogen\\mocs_compilation_Debug.cpp.obj -c C:\\code\\QT\\NotaBook\\build\\NotaBook_autogen\\mocs_compilation_Debug.cpp",
+  "file": "C:\\code\\QT\\NotaBook\\build\\NotaBook_autogen\\mocs_compilation_Debug.cpp",
+  "output": "CMakeFiles\\NotaBook.dir\\Debug\\NotaBook_autogen\\mocs_compilation_Debug.cpp.obj"
+},
+{
+  "directory": "C:/code/QT/NotaBook/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Debug\\\" -IC:/code/QT/NotaBook/build/NotaBook_autogen/include_Debug -isystem C:/Qt/6.7.2/mingw_64/include/QtCore -isystem C:/Qt/6.7.2/mingw_64/include -isystem C:/Qt/6.7.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.2/mingw_64/include/QtGui -g -std=gnu++17 -o CMakeFiles\\NotaBook.dir\\Debug\\main.cpp.obj -c C:\\code\\QT\\NotaBook\\main.cpp",
+  "file": "C:\\code\\QT\\NotaBook\\main.cpp",
+  "output": "CMakeFiles\\NotaBook.dir\\Debug\\main.cpp.obj"
+},
+{
+  "directory": "C:/code/QT/NotaBook/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Debug\\\" -IC:/code/QT/NotaBook/build/NotaBook_autogen/include_Debug -isystem C:/Qt/6.7.2/mingw_64/include/QtCore -isystem C:/Qt/6.7.2/mingw_64/include -isystem C:/Qt/6.7.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.2/mingw_64/include/QtGui -g -std=gnu++17 -o CMakeFiles\\NotaBook.dir\\Debug\\notabook.cpp.obj -c C:\\code\\QT\\NotaBook\\notabook.cpp",
+  "file": "C:\\code\\QT\\NotaBook\\notabook.cpp",
+  "output": "CMakeFiles\\NotaBook.dir\\Debug\\notabook.cpp.obj"
+},
+{
+  "directory": "C:/code/QT/NotaBook/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Debug\\\" -IC:/code/QT/NotaBook/build/NotaBook_autogen/include_Debug -isystem C:/Qt/6.7.2/mingw_64/include/QtCore -isystem C:/Qt/6.7.2/mingw_64/include -isystem C:/Qt/6.7.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.2/mingw_64/include/QtGui -g -std=gnu++17 -o CMakeFiles\\NotaBook.dir\\Debug\\NotaBook_autogen\\EWIEGA46WW\\qrc_res.cpp.obj -c C:\\code\\QT\\NotaBook\\build\\NotaBook_autogen\\EWIEGA46WW\\qrc_res.cpp",
+  "file": "C:\\code\\QT\\NotaBook\\build\\NotaBook_autogen\\EWIEGA46WW\\qrc_res.cpp",
+  "output": "CMakeFiles\\NotaBook.dir\\Debug\\NotaBook_autogen\\EWIEGA46WW\\qrc_res.cpp.obj"
+},
+{
+  "directory": "C:/code/QT/NotaBook/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Release\\\" -IC:/code/QT/NotaBook/build/NotaBook_autogen/include_Release -isystem C:/Qt/6.7.2/mingw_64/include/QtCore -isystem C:/Qt/6.7.2/mingw_64/include -isystem C:/Qt/6.7.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.2/mingw_64/include/QtGui -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\NotaBook.dir\\Release\\NotaBook_autogen\\mocs_compilation_Release.cpp.obj -c C:\\code\\QT\\NotaBook\\build\\NotaBook_autogen\\mocs_compilation_Release.cpp",
+  "file": "C:\\code\\QT\\NotaBook\\build\\NotaBook_autogen\\mocs_compilation_Release.cpp",
+  "output": "CMakeFiles\\NotaBook.dir\\Release\\NotaBook_autogen\\mocs_compilation_Release.cpp.obj"
+},
+{
+  "directory": "C:/code/QT/NotaBook/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Release\\\" -IC:/code/QT/NotaBook/build/NotaBook_autogen/include_Release -isystem C:/Qt/6.7.2/mingw_64/include/QtCore -isystem C:/Qt/6.7.2/mingw_64/include -isystem C:/Qt/6.7.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.2/mingw_64/include/QtGui -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\NotaBook.dir\\Release\\main.cpp.obj -c C:\\code\\QT\\NotaBook\\main.cpp",
+  "file": "C:\\code\\QT\\NotaBook\\main.cpp",
+  "output": "CMakeFiles\\NotaBook.dir\\Release\\main.cpp.obj"
+},
+{
+  "directory": "C:/code/QT/NotaBook/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Release\\\" -IC:/code/QT/NotaBook/build/NotaBook_autogen/include_Release -isystem C:/Qt/6.7.2/mingw_64/include/QtCore -isystem C:/Qt/6.7.2/mingw_64/include -isystem C:/Qt/6.7.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.2/mingw_64/include/QtGui -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\NotaBook.dir\\Release\\notabook.cpp.obj -c C:\\code\\QT\\NotaBook\\notabook.cpp",
+  "file": "C:\\code\\QT\\NotaBook\\notabook.cpp",
+  "output": "CMakeFiles\\NotaBook.dir\\Release\\notabook.cpp.obj"
+},
+{
+  "directory": "C:/code/QT/NotaBook/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Release\\\" -IC:/code/QT/NotaBook/build/NotaBook_autogen/include_Release -isystem C:/Qt/6.7.2/mingw_64/include/QtCore -isystem C:/Qt/6.7.2/mingw_64/include -isystem C:/Qt/6.7.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.2/mingw_64/include/QtGui -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\NotaBook.dir\\Release\\NotaBook_autogen\\EWIEGA46WW\\qrc_res.cpp.obj -c C:\\code\\QT\\NotaBook\\build\\NotaBook_autogen\\EWIEGA46WW\\qrc_res.cpp",
+  "file": "C:\\code\\QT\\NotaBook\\build\\NotaBook_autogen\\EWIEGA46WW\\qrc_res.cpp",
+  "output": "CMakeFiles\\NotaBook.dir\\Release\\NotaBook_autogen\\EWIEGA46WW\\qrc_res.cpp.obj"
+},
+{
+  "directory": "C:/code/QT/NotaBook/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IC:/code/QT/NotaBook/build/NotaBook_autogen/include_RelWithDebInfo -isystem C:/Qt/6.7.2/mingw_64/include/QtCore -isystem C:/Qt/6.7.2/mingw_64/include -isystem C:/Qt/6.7.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.2/mingw_64/include/QtGui -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles\\NotaBook.dir\\RelWithDebInfo\\NotaBook_autogen\\mocs_compilation_RelWithDebInfo.cpp.obj -c C:\\code\\QT\\NotaBook\\build\\NotaBook_autogen\\mocs_compilation_RelWithDebInfo.cpp",
+  "file": "C:\\code\\QT\\NotaBook\\build\\NotaBook_autogen\\mocs_compilation_RelWithDebInfo.cpp",
+  "output": "CMakeFiles\\NotaBook.dir\\RelWithDebInfo\\NotaBook_autogen\\mocs_compilation_RelWithDebInfo.cpp.obj"
+},
+{
+  "directory": "C:/code/QT/NotaBook/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IC:/code/QT/NotaBook/build/NotaBook_autogen/include_RelWithDebInfo -isystem C:/Qt/6.7.2/mingw_64/include/QtCore -isystem C:/Qt/6.7.2/mingw_64/include -isystem C:/Qt/6.7.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.2/mingw_64/include/QtGui -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles\\NotaBook.dir\\RelWithDebInfo\\main.cpp.obj -c C:\\code\\QT\\NotaBook\\main.cpp",
+  "file": "C:\\code\\QT\\NotaBook\\main.cpp",
+  "output": "CMakeFiles\\NotaBook.dir\\RelWithDebInfo\\main.cpp.obj"
+},
+{
+  "directory": "C:/code/QT/NotaBook/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IC:/code/QT/NotaBook/build/NotaBook_autogen/include_RelWithDebInfo -isystem C:/Qt/6.7.2/mingw_64/include/QtCore -isystem C:/Qt/6.7.2/mingw_64/include -isystem C:/Qt/6.7.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.2/mingw_64/include/QtGui -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles\\NotaBook.dir\\RelWithDebInfo\\notabook.cpp.obj -c C:\\code\\QT\\NotaBook\\notabook.cpp",
+  "file": "C:\\code\\QT\\NotaBook\\notabook.cpp",
+  "output": "CMakeFiles\\NotaBook.dir\\RelWithDebInfo\\notabook.cpp.obj"
+},
+{
+  "directory": "C:/code/QT/NotaBook/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IC:/code/QT/NotaBook/build/NotaBook_autogen/include_RelWithDebInfo -isystem C:/Qt/6.7.2/mingw_64/include/QtCore -isystem C:/Qt/6.7.2/mingw_64/include -isystem C:/Qt/6.7.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.2/mingw_64/include/QtGui -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles\\NotaBook.dir\\RelWithDebInfo\\NotaBook_autogen\\EWIEGA46WW\\qrc_res.cpp.obj -c C:\\code\\QT\\NotaBook\\build\\NotaBook_autogen\\EWIEGA46WW\\qrc_res.cpp",
+  "file": "C:\\code\\QT\\NotaBook\\build\\NotaBook_autogen\\EWIEGA46WW\\qrc_res.cpp",
+  "output": "CMakeFiles\\NotaBook.dir\\RelWithDebInfo\\NotaBook_autogen\\EWIEGA46WW\\qrc_res.cpp.obj"
+}
+]

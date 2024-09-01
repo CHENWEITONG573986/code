@@ -1,0 +1,9 @@
+# ninja log v6
+7	724	7466306279919879	one_autogen/timestamp	7c03be9b71c81c07
+7	724	7466306279919879	one_autogen/mocs_compilation_Debug.cpp	7c03be9b71c81c07
+7	724	7466306279919879	C:/code/QT/Project4/build/one_autogen/timestamp	7c03be9b71c81c07
+7	724	7466306279919879	C:/code/QT/Project4/build/one_autogen/mocs_compilation_Debug.cpp	7c03be9b71c81c07
+733	2312	7466306280932220	CMakeFiles/one.dir/Debug/src/main.cpp.obj	1b04653f0c910a2a
+742	2341	7466306281022235	CMakeFiles/one.dir/Debug/src/one.cpp.obj	c5efec32b19504b9
+725	2347	7466306280851862	CMakeFiles/one.dir/Debug/one_autogen/mocs_compilation_Debug.cpp.obj	ef5ae4780e4c80ff
+2348	2521	7466306297072516	Debug/one.exe	c587a9aa4c6fc19e

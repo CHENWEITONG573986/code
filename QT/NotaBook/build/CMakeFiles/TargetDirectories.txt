@@ -1,0 +1,8 @@
+C:/code/QT/NotaBook/build/CMakeFiles/NotaBook.dir
+C:/code/QT/NotaBook/build/CMakeFiles/edit_cache.dir
+C:/code/QT/NotaBook/build/CMakeFiles/rebuild_cache.dir
+C:/code/QT/NotaBook/build/CMakeFiles/install.dir
+C:/code/QT/NotaBook/build/CMakeFiles/install/local.dir
+C:/code/QT/NotaBook/build/CMakeFiles/install/strip.dir
+C:/code/QT/NotaBook/build/CMakeFiles/NotaBook_autogen_timestamp_deps.dir
+C:/code/QT/NotaBook/build/CMakeFiles/NotaBook_autogen.dir

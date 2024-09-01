@@ -1,0 +1,9 @@
+# ninja log v6
+9	665	7466282789783587	Project2_autogen/timestamp	b39ab94c8412eb13
+9	665	7466282789783587	Project2_autogen/mocs_compilation.cpp	b39ab94c8412eb13
+9	665	7466282789783587	C:/code/QT/Project2/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Project2_autogen/timestamp	b39ab94c8412eb13
+9	665	7466282789783587	C:/code/QT/Project2/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Project2_autogen/mocs_compilation.cpp	b39ab94c8412eb13
+671	2312	7466282790823719	CMakeFiles/Project2.dir/Project2_autogen/mocs_compilation.cpp.obj	87cc28b483e2743f
+680	2377	7466282790905689	CMakeFiles/Project2.dir/main.cpp.obj	81c7494feb31eada
+688	2448	7466282790985885	CMakeFiles/Project2.dir/mainwindow.cpp.obj	3cad1d016b2b7ca6
+2449	2646	7466282808599169	Project2.exe	c3d833d07e8d55bd
