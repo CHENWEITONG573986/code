@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="z-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script>
+</head>
+<body>
+    <div id="app">
+        年龄<input type="text" v-model="age">经判定，为：
+        <span v-if="age<=35">年轻人(35及以下)</span>
+        <span v-else-if="age>35&&age<60">中年人(35-60)</span>
+        <span v-else>老年人(60及以上)</span>
+        <br><br>
+        年龄<input type="text" v-model="age">经判定，为：
+        <span v-show="age<=35">年轻人(35及以下)</span>
+        <span v-show="age>35&&age<60">中年人(35-60)</span>
+        <span v-show="age>=60">老年人(60及以上)</span>
+        <br><br>
+        <div v-for="(addrs, index) in addrs">{{index+1}}:{{addrs}}</div>
+    </div>
+</body>
+<script>
+    new Vue ({
+        el: "#app",
+        data: {
+            age: 20,
+            addrs:["北京","上海","西安","成都","深圳"]
+        },
+        methods: {
+            
+        }
+    })
+</script>
+</html>

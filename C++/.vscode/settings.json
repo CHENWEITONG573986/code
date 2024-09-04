@@ -17,7 +17,13 @@
         "format": "cpp",
         "map": "cpp",
         "utility": "cpp",
-        "stack": "cpp"
+        "stack": "cpp",
+        "xutility": "cpp",
+        "array": "cpp",
+        "initializer_list": "cpp",
+        "ranges": "cpp",
+        "span": "cpp",
+        "xhash": "cpp"
     },
     "cmake.ignoreCMakeListsMissing": true
 }
